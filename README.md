@@ -50,3 +50,15 @@ This curriculum has an overall structure which presents multiple facets of how B
 |  | 7.3 | Banking the un(der)banked | Draft | – |
 |  | 7.4 | Convergence of Bitcoin and AI | Draft | – |
 | **The Open Ledger – Analyzing the Bitcoin Economy** | 8 | – | Draft | – |
+
+---
+
+## 🤝 Interested In Contributing To Bitcoin For Organizations?
+
+Do you have expertise in other industries or departments you would like to see added to the curriculum?
+
+Would you like to see other modules added to the library, or lend your experience to expanding on existing modules?
+
+💡 We would love to hear your ideas for expanding and improving **Bitcoin For Organizations**.  
+
+Please submit our [Contributing Author Interest Form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfhXlH3JQ9-QqyAYWUWW-VBwWYNmwjeUHkTWfxqOmdcSg-ANA/viewform?usp%3Dheader&sa=D&source=docs&ust=1750085413953862&usg=AOvVaw2ZA6Dcp_l6l-5QvTyRZ-em) so that we can start a conversation about how we might collaborate.
