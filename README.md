@@ -16,7 +16,7 @@ This curriculum has an overall structure which presents multiple facets of how B
 
 | Module | Number | Subtopic Title | Status | Preview |
 |--------|--------|----------------|--------|---------|
-| **Impact on The Risk Function** | 1 | – | Draft | – |
+| **Impact on The Risk Function** | 1 | – | Draft | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/3743cefc170132775155e74cee2a3c31bb778571/modules/module1-impact-on-the-risk-function.pdf) |
 | **Dispelling Misconceptions** | 2.1 | Bitcoin has no intrinsic value | Draft | – |
 |  | 2.2 | Bitcoin and energy | Draft | – |
 |  | 2.3 | Too slow to be global money | Draft | – |
