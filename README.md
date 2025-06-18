@@ -38,8 +38,8 @@ This curriculum has an overall structure which presents multiple facets of how B
 |  | 4.2 | Investment management | Draft | – |
 |  | 4.3 | Banking and payments | Draft | – |
 |  | 4.4 | Technology (DDoS, FOSS, P2P) | Draft | – |
-|  | 4.5 | Professional Services | Draft | – |
-|  | 4.6 | Government | Draft | – |
+|  | 4.5 | Professional Services | Final&nbsp;✅ | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/1590758311e9906e78017224cb2ca5e3d3fd28c5/modules/module4.5-professional-services.pdf) |
+|  | 4.6 | Government | Final&nbsp;✅ | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/1590758311e9906e78017224cb2ca5e3d3fd28c5/modules/module4.6-government.pdf) |
 |  | 4.7 | Charity / Not for Profit | Draft | – |
 | **Impact on Internal Functions** | 5.1 | IT | Draft | – |
 |  | 5.2 | Treasury Management | Draft | – |
