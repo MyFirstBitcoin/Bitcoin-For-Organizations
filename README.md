@@ -17,11 +17,11 @@ This curriculum has an overall structure which presents multiple facets of how B
 | Module | Number | Subtopic Title | Status | Preview |
 |--------|--------|----------------|--------|---------|
 | **Impact on The Risk Function** | 1 | – | Final&nbsp;✅ | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/3743cefc170132775155e74cee2a3c31bb778571/modules/module1-impact-on-the-risk-function.pdf) |
-| **Dispelling Misconceptions** | 2.1 | Bitcoin has no intrinsic value | Draft | – |
-|  | 2.2 | Bitcoin and energy | Draft | – |
-|  | 2.3 | Too slow to be global money | Draft | – |
-|  | 2.4 | There’s no innovation happening in Bitcoin | Draft | – |
-|  | 2.5 | Governments will ban it | Draft | – |
+| **Dispelling Misconceptions** | 2.1 | Bitcoin has no intrinsic value | Final&nbsp;✅ | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/19b830b680f415d0159f5c96c3ff51ed560bcd5d/modules/module2.1-bitcoin-has-no-intrinsic-value.pdf) |
+|  | 2.2 | Bitcoin and energy | Final&nbsp;✅ | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/19b830b680f415d0159f5c96c3ff51ed560bcd5d/modules/module2.2-bitcoin-and-energy.pdf) |
+|  | 2.3 | Too slow to be global money | Final&nbsp;✅ | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/19b830b680f415d0159f5c96c3ff51ed560bcd5d/modules/module2.3-bitcoin-is-too-slow-to-be-global-money.pdf) |
+|  | 2.4 | There’s no innovation happening in Bitcoin | Final&nbsp;✅ | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/19b830b680f415d0159f5c96c3ff51ed560bcd5d/modules/module2.4-there-is-no-innovation-happening-in-bitcoin.pdf) |
+|  | 2.5 | Governments will ban it | Final&nbsp;✅ | [Preview](https://github.com/MyFirstBitcoin/Bitcoin-For-Organizations/blob/19b830b680f415d0159f5c96c3ff51ed560bcd5d/modules/module2.5-governments-will-ban-it.pdf) |
 |  | 2.6 | There are thousands of other coins, so claims to scarcity/fixed supply are false | Draft | – |
 |  | 2.7 | It’s not decentralised (ownership, nodes, mining) | Draft | – |
 |  | 2.8 | Nobody uses it as a MoE, so it can’t be money | Draft | – |
